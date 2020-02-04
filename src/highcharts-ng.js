@@ -166,6 +166,7 @@ if (typeof module !== 'undefined' && typeof exports !== 'undefined' && module.ex
       title: {},
       subtitle: {},
       series: [],
+      drilldown: {},
       credits: {},
       plotOptions: {},
       navigator: {},
